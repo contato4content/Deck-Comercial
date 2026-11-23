@@ -1,0 +1,74 @@
+4CONTENT · DECK COMERCIAL · SLIDES 14 E 15
+Conteúdo exatamente como está no deck.
+
+==================================================
+SLIDE 14 · GABI É CABULOSO!
+==================================================
+Rótulo:     [Campanha · Case em destaque]
+Linha:      4Content × Cruzeiro × Gabigol · estratégia e produção de ponta a ponta
+Título:     Gabi é cabuloso!
+
+Ações da campanha
+01  Despedida   Minissérie “Até o Fim” e Podpah encerrando o ciclo no Flamengo.
+02  Countdown   Mais de 10 dias de contagem ao vivo no YouTube do Gabigol.
+03  Anúncio     Revelação no primeiro minuto de 2025 e entrevista no Show da Virada.
+04  Cidade      Projeções da silhueta em 4 pontos turísticos de BH.
+05  Mural       Arte de Luan Ribeiro na Toca da Raposa, com a Viva Sorte.
+06  Mineirão    44 mil torcedores, ingressos esgotados em menos de 10 horas.
+
+Números
+202M   views no Instagram do Cruzeiro em 5 dias
+45M    vindas dos vídeos do Gabigol
+2,4M   curtidas em 4 posts do atleta
+
+Imagem: gabigol-camisa-cruzeiro.jpg
+
+
+==================================================
+SLIDE 15 · A LIVE DO GABIGOL
+==================================================
+Rótulo:     [Gabigol · A live]
+Título:     O Brasil virou o ano esperando o Gabigol.
+Texto:      Um cronômetro ao vivo no YouTube do atleta, zerando exatamente na
+            virada para 2025: o torcedor comemorou o ano novo e a chegada ao
+            Cruzeiro no mesmo segundo.
+
+Números
+40 mil      pessoas ao vivo no momento do anúncio
+640 mil     visualizações do vídeo da contagem
+10+ dias    de contagem regressiva no ar
+#3          no X, atrás só de “Feliz Ano Novo” e “Feliz 2025”
+
+Imagens e vídeo
+live-contagem-regressiva.jpg   Tela da live com a contagem regressiva
+anuncio-a-meia-noite.jpg       Gabigol no anúncio à meia-noite
+video-torcida-virada.mp4       Família de torcedores do Cruzeiro na virada (30s,
+                               arquivo original com som; no deck ele toca sem som)
+
+Repercussão no X (tweets recriados no deck na identidade 4Content)
+1. CazéTV (@CazeTVOficial) · 21 dez 2024
+   “🚨 TÁ ACONTECENDO! 👀 O canal oficial do Gabigol iniciou uma contagem
+   regressiva até a virada do ano. O que será que vem por aí???”
+
+2. venancio (@gabrieuvenanxio) · 1 jan 2025
+   “Ainda achando bizarro que o Gabigol e o Cruzeiro conseguiram parar a
+   comemoração do réveillon de todo mundo só com esse anúncio, era 00:00 e
+   todas as páginas de futebol do Brasil falando disso. Aulas de marketing”
+
+3. gica (@gicacec) · 1 jan 2025
+   “morro que o marketing impecável do Cruzeiro e do Gabigol conseguiu parar
+   até o ano novo”
+
+4. O TEMPO (@otempo) · 1 jan 2025
+   “É DO CRUZEIRO 🦊 Acabou o suspense! O atacante Gabigol anunciou
+   oficialmente, nos primeiros minutos de 2025, que virá mesmo para o Cruzeiro.”
+
+Pasta “Avatares dos tweets”: fotos de perfil recortadas dos prints.
+Arquivos print-tweet-*.png: prints originais dos tweets.
+
+
+==================================================
+PRÉVIAS
+==================================================
+Pasta “Previas dos slides”: imagem de cada slide como está no deck (1920×1080).
+Observação: na prévia do slide 15 o vídeo aparece parado na primeira imagem.
